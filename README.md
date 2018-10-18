@@ -1,1 +1,1 @@
-# cplusplus-basics
+# C++ for programmers (udacity course)
